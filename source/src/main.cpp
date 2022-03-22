@@ -1,9 +1,10 @@
 #include <iostream>
 #include "hello.h"
 
-int main()
-{
+int main() {
+    
     hello().say_hello();
+    
     return 0;
 }
 
